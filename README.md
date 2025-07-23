@@ -55,5 +55,5 @@ Gaining experience with real-world KPIs in the e-commerce domain
 
 Screenshot:
 show what the dashboard looks like.
-Example:
+Example:https://github.com/nileshdeb/Ecommerce_sales_dashboard/blob/main/ecommerce_sales_dashboard_screenshot.png
 
