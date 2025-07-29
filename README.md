@@ -1,59 +1,69 @@
-# Ecommerce_sales_dashboard
-🛒 E-commerce Sales Dashboard – Power BI Project
+#  E-commerce Sales Dashboard – Power BI Project
 
-📌 Project Overview
-This interactive Power BI dashboard provides insights into the sales performance of an e-commerce business. It was built as part of a hands-on learning exercise to develop practical skills in data analysis, visualization, and dashboard creation using Power BI.
+##  Project Overview
 
-📊 Key Insights Visualized
-Metric	                                                Description
-💰 Total Amount	                              Total sales amount across all orders
-📦 Total Quantity	                            Total quantity of items sold
-🧾 Total Profit	                              Total profit earned from all sales
-📈 Average Order Value (AOV)                 	Average value of each order
-🌍 Sales by State	                            Comparison of sales figures across different states
-👤 Sales by Customer	                        Customer-wise breakdown of sales
-🛍️ Category Analysis	                        Quantity of items sold by product category
-💳 Payment Modes	                            Proportion of sales via different payment methods
-📆 Monthly Profit Trend	                      Monthly distribution of profit earned
-🪑 Sub-Category Profit	                      Profitability analysis by sub-product categories like tables, chairs, etc.
+This interactive Power BI dashboard provides insightful visualizations of an e-commerce business’s sales performance. The project was created as part of a hands-on learning journey to strengthen practical skills in **data analysis**, **visualization**, and **dashboard design** using **Power BI**.
 
-🧰 Tools & Features Used
-Power BI Desktop
+---
 
-Data Modeling & Relationships
+##  Key Insights Visualized
 
-DAX Measures (Sum, Average)
+|  Metric                   |  Description                                                                  |
+|---------------------------|-------------------------------------------------------------------------------|
+|  **Total Amount**         | Total sales amount across all customer orders                                 |
+|  **Total Quantity**       | Total quantity of items sold                                                  |
+|  **Total Profit**         | Total profit generated from all transactions                                  |
+|  **Average Order Value**  | Average sales value per order                                                 |
+|  **Sales by State**       | Geographic comparison of sales across different states                        |
+|  **Sales by Customer**    | Customer-wise sales performance breakdown                                     |
+|  **Category Analysis**    | Quantity of items sold by product category (e.g., furniture, electronics)     |
+|  **Payment Modes**        | Distribution of payment methods used                                          |
+|  **Monthly Profit Trend** | Trend of monthly profits across the year                                      |
+|  **Sub-Category Profit**  | Profitability of sub-categories like chairs, tables, etc.                     |
 
-Interactive Slicers (Quarter, State)
+---
 
-Custom Visual Formatting
+##  Tools & Features Used
 
-Filters & Drill-through
+- **Power BI Desktop**
+- **Data Modeling & Relationship Building**
+- **DAX Measures** (SUM, AVERAGE, CALCULATE, etc.)
+- **Interactive Slicers** (Quarter, State, Category)
+- **Custom Visual Formatting & Themes**
+- **Filters and Drill-throughs**
 
-📂 Dataset
-The dataset simulates an e-commerce order history including:
+---
 
-Customer details
+##  Dataset Overview
 
-Order amount & profit
+The dataset includes a simulated e-commerce order history with the following attributes:
 
-Product categories & sub-categories
+- Customer details
+- Order amount, profit, and quantity
+- Product categories and sub-categories
+- Payment method information
+- Order dates and shipping states
 
-Payment modes
+---
 
-Order dates and states
+##  Learning Outcomes
 
+- Transforming raw sales data into clean, business-ready dashboards
+- Applying best practices in layout, color, and visual hierarchy
+- Using **DAX** to calculate KPIs like AOV, profit margins, etc.
+- Gaining real-world context for **e-commerce analytics**
+- Understanding how interactive filters and drill-throughs work in Power BI
 
-📚 Learning Outcomes
-Building clean, business-ready dashboards from raw datasets
+---
 
-Applying best practices in visual hierarchy and design
+##  Dashboard Screenshot
 
-Using Power BI filters, slicers, and DAX functions
+![E-commerce Dashboard Screenshot](https://github.com/nileshdeb/Ecommerce_sales_dashboard/blob/main/ecommerce_sales_dashboard_screenshot.png)
 
-Gaining experience with real-world KPIs in the e-commerce domain
+---
 
-Screenshot:
-show what the dashboard looks like.
-Example:https://github.com/nileshdeb/Ecommerce_sales_dashboard/blob/main/ecommerce_sales_dashboard_screenshot.png
+##  Conclusion
 
+This project highlights the ability to turn raw sales data into actionable business intelligence using Power BI. It showcases dynamic storytelling through charts, filters, and KPIs, enabling decision-makers to better understand trends, customer behavior, and profitability.
+
+---
